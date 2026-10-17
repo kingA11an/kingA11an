@@ -17,7 +17,7 @@ BSc Computer Technology Student at Multimedia University of Kenya | Aspiring Sof
 
 ## 🚀 Projects
 - 🌐 **[Personal Developer Portfolio](https://github.com/kingA11an/AllanMuli_Portfolio)** – Responsive developer portfolio with dark mode, smooth animations, and interactive web elements.
-- ♿ **[Special Needs Resource Hub](https://github.com/kingA11an)** – Accessible web application built using django, javascript,Tailwind CSS and HTML to make essential resources easily navigable.
+- ♿ **[Special Needs Resource Hub](https://special-needs-hub.onrender.com)** – Accessible web application built using django, javascript,Tailwind CSS and HTML to make essential resources easily navigable.
 - 🌐 **[Photography Web Portfolio](https://github.com/Joshh-collab/photographics-ke)** – Web platform built using, JavaScript, HTML and Tailwind CSS.
 - 📜 **[git-learning-log](https://github.com/kingA11an/git-learning-log)** – A dedicated repository tracking hands-on practice with Git commands, branching workflows, and version control.
 
